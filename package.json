@@ -9,6 +9,5 @@
     "discord.js": "^11.3.0",
     "npm": "^5.7.1",
     "opusscript": "0.0.6",
-    "ytdl-core": "^0.20.2"
   }
 }
